@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-recipe-app/static/css/main.c8d7f973.chunk.css",
-    "main.js": "/react-recipe-app/static/js/main.088fb8fd.chunk.js",
-    "main.js.map": "/react-recipe-app/static/js/main.088fb8fd.chunk.js.map",
+    "main.js": "/react-recipe-app/static/js/main.6474cccc.chunk.js",
+    "main.js.map": "/react-recipe-app/static/js/main.6474cccc.chunk.js.map",
     "runtime~main.js": "/react-recipe-app/static/js/runtime~main.29327cec.js",
     "runtime~main.js.map": "/react-recipe-app/static/js/runtime~main.29327cec.js.map",
     "static/css/2.266e55a5.chunk.css": "/react-recipe-app/static/css/2.266e55a5.chunk.css",
-    "static/js/2.8fd6a92f.chunk.js": "/react-recipe-app/static/js/2.8fd6a92f.chunk.js",
-    "static/js/2.8fd6a92f.chunk.js.map": "/react-recipe-app/static/js/2.8fd6a92f.chunk.js.map",
+    "static/js/2.4b03f742.chunk.js": "/react-recipe-app/static/js/2.4b03f742.chunk.js",
+    "static/js/2.4b03f742.chunk.js.map": "/react-recipe-app/static/js/2.4b03f742.chunk.js.map",
     "index.html": "/react-recipe-app/index.html",
-    "precache-manifest.f3c897c1d13cf88df59b4d4605d6467c.js": "/react-recipe-app/precache-manifest.f3c897c1d13cf88df59b4d4605d6467c.js",
+    "precache-manifest.c979994ba42117756d53d441e0075e37.js": "/react-recipe-app/precache-manifest.c979994ba42117756d53d441e0075e37.js",
     "service-worker.js": "/react-recipe-app/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/react-recipe-app/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.c8d7f973.chunk.css.map": "/react-recipe-app/static/css/main.c8d7f973.chunk.css.map"
